@@ -1,0 +1,75 @@
+Business Source License 1.1
+
+License text copyright (c) 2017 MariaDB Corporation Ab.
+“Business Source License” is a trademark of MariaDB Corporation Ab.
+
+-------------------------------------------------------------------------------
+
+Parameters
+
+Licensor: ArkLive Ventures
+
+Licensed Work:
+ArkLive platform source code, including but not limited to:
+- Rank and reputation systems
+- Quest, reward, and snapshot logic
+- Token-aware mechanics
+- Identity, profile, and onboarding systems
+- Any associated frontend, backend, or infrastructure code
+contained in this repository.
+
+Additional Use Grant:
+You may use, modify, and deploy this software for:
+- Personal use
+- Internal evaluation
+- Non-commercial testing
+- Community contribution to this repository
+
+You may NOT:
+- Offer this software as a hosted service
+- Operate a competing platform
+- Commercialize, resell, sublicense, or monetize
+any part of the Licensed Work
+without explicit written permission from the Licensor.
+
+Change Date:
+36 months after the date of the first public commit to this repository.
+
+Change License:
+Apache License, Version 2.0
+
+-------------------------------------------------------------------------------
+
+Terms
+
+The Licensor hereby grants you the right to copy, modify, create derivative
+works, and redistribute the Licensed Work, subject to the limitations set
+forth in this License.
+
+This License does not grant the right to use the Licensed Work for production,
+commercial, or revenue-generating purposes, including but not limited to:
+- SaaS platforms
+- Tokenized or monetized derivatives
+- Competing ecosystems or applications
+
+All use of the Licensed Work must preserve this License file.
+
+On the Change Date, the Licensed Work will automatically be made available
+under the Change License stated above.
+
+-------------------------------------------------------------------------------
+
+Disclaimer of Warranty
+
+THE LICENSED WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+-------------------------------------------------------------------------------
+
+Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS
+IN THE LICENSED WORK.
